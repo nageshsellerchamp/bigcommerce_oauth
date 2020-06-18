@@ -1,2 +1,1 @@
-# bigcommerce_oauth
-bigcommerce_oauth
+# demo_bigc_product_manager
